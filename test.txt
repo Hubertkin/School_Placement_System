@@ -1,0 +1,46 @@
+// prog.listSchools('a');
+
+    // trial.addDetail("St. Mary's");
+    // trial.schoolDetails();
+    // trial.acceptStudent(5, "John", "Maths");
+    // stud.insert(prog);
+    // stud.displayDet();
+    // stud.displayRes();
+
+    /* int i = 0;
+     schoolchoice = stud.retSchoolChoice();
+     for (string str : schoolchoice)
+     {
+        // char status = trial.acceptStudent(stud);
+         if (status == 'y')
+         {
+             break;
+         }
+         else
+         {
+             cout << i;
+             cout << "Sorry, you have not been accepted into any school" << endl;
+             i++;
+             continue;
+         }
+     }
+    schoolchoice = stud.retSchoolChoice();
+     for (string str : schoolchoice)
+     {
+         if (str == trial.name)
+         {
+             char status = trial.acceptStudent(stud);
+             if (status == 'y')
+             {
+                 break;
+             }
+             else
+             {
+                 cout << "Sorry, you have not been accepted into any school" << endl;
+                 continue;
+             }
+         }
+
+     }*/
+    // trial.schoolDetails();
+    // trial.printStudents();
